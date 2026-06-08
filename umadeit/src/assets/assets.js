@@ -33,6 +33,10 @@ import lock_icon from "./lock_icon.svg";
 import samsung_logo from "./samsung_logo.png";
 import adobe_logo from "./adobe_logo.png";
 import amazon_logo from "./amazon_logo.png";
+import econet_logo from "./econet_logo.jpg";
+import lec_logo from "./lec_logo.jpg";
+import letseng_logo from "./letseng_logo.jpg";
+import lra_logo from "./lra_logo.jpg";
 
 export const assets = {
   logo1,
@@ -70,6 +74,10 @@ export const assets = {
   samsung_logo,
   adobe_logo,
   amazon_logo,
+  econet_logo,
+  lec_logo,
+  letseng_logo,
+  lra_logo,
 };
 
 export const JobCategories = [
